@@ -7,7 +7,7 @@ public class ApplicationMain {
 
 		System.out.println("Jenkins Pipeline");
 		System.out.println("test commit");
-		System.out.println("test apres webhookstoto");
+		System.out.println("test apres webhooks");
 	}
 
 }
