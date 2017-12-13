@@ -6,7 +6,7 @@ public class ApplicationMain {
 		// TODO Auto-generated method stub
 
 		System.out.println("Jenkins Pipeline");
-		
+		System.out.println("test commit");
 	}
 
 }
